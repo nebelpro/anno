@@ -1,8 +1,8 @@
-#1. Controller, RestController的共同点
+# 1. Controller, RestController的共同点
 
      都是用来表示Spring某个类的是否可以接收HTTP请求
      
-#2.  Controller, RestController的不同点
+# 2.  Controller, RestController的不同点
 
      @Controller标识一个Spring类是Spring MVC controller处理器
 
