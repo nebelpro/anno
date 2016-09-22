@@ -6,4 +6,17 @@
 
      @Controller标识一个Spring类是Spring MVC controller处理器
 
-     @RestController：  a convenience annotation that does nothing more than adding the@Controller and @ResponseBody annotations。  @RestController是@Controller和@ResponseBody的结合体，两个标注合并起来的作用。
+     @RestController：  a convenience annotation that does nothing more than adding the @Controller and @ResponseBody annotations。
+     @RestController是@Controller和@ResponseBody的结合体，两个标注合并起来的作用。
+
+
+## How about some code?
+```js
+var React = require('react');
+var Markdown = require('react-markdown');
+
+React.render(
+    <Markdown source="# Your markdown here" />,
+    document.getElementById('content')
+);
+```
