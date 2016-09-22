@@ -1,13 +1,10 @@
 {
   "success": true,
   "data": [
-    {
-      "url": "Controller.md",
-      "name": "@Controller"
-    },
+  
     {
       "url": "RestController.md",
-      "name": "@RestController"
+      "name": "@Controller @RestController"
     },
     {
       "url": "Autoire.md",
